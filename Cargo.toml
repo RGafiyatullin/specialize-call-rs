@@ -1,6 +1,6 @@
 [package]
 name = "specialize-call"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 description = "A macro to invoke a function with type-arguments substituted according to a runtime value"
