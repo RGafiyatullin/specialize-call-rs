@@ -1,10 +1,10 @@
 [package]
 name = "specialize-call"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 description = "A macro to invoke a function with type-arguments substituted according to a runtime value"
-license-file = "LICENSE"
+license = "Unlicense"
 repository = "https://github.com/RGafiyatullin/specialize-call-rs.git"
 documentation = "https://docs.rs/specialize-call"
 
